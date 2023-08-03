@@ -1,7 +1,4 @@
-package com.dog.meong.Controller;
-
-import java.util.Arrays;
-import java.util.List;
+package com.dog.meong.controller;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
